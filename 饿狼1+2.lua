@@ -142,4 +142,4 @@ AutoKyotoButton.MouseButton1Click:Connect(function()
 end)
 
 -- Initial Notification when GUI is loaded
-showRobloxNotification("Loaded by notpaki and cyborg")"
+showRobloxNotification("Loaded by notpaki and cyborg")
